@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site](https://ip-address-tracker-jay-0331.vercel.app/)
+- Live Site URL: [https://ip-address-tracker-jay-0331.vercel.app/](https://ip-address-tracker-jay-0331.vercel.app/)
 
 ## My process
 
